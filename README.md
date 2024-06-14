@@ -8,6 +8,17 @@
 - **Timed Impound**: Vehicles within these zones will be impounded after a set time.
 - **Configurable Fines**: Set fine amounts for impounded vehicles through the configuration.
 
+## Configuration Options
+- **Depot Price**: Set the fine amount for impounded vehicles.
+- **Multiple Locations**: Define multiple impound zones.
+- **Adjust Time Before Depot**: Configure the time before a vehicle is impounded.
+- **Blacklisted Vehicles**: Add vehicles that should not be impounded.
+- **Debug Mode**: Turn debug on/off for each zone.
+
+## Script Info
+- **Performance**: Runs at 0.0ms at all times.
+- **Dependencies**: Uses PolyZones.
+
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
@@ -33,6 +44,8 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 Special thanks to the creators of PolyZone for making zone management easier.
 
----
+## Credits
+Thanks to <@1239846385579196518> for making this script. Bunny only provided the idea and feedback; full credit to them.
 
-For more information or to report issues, visit the [GitHub Issues page](https://github.com/yourusername/Bunnys-ImpoundZones/issues).
+## Preview
+Check out a preview of the script in action [here](https://cdn.discordapp.com/attachments/1248171101255761920/1248171101910208572/lv_0_20240606030326.mp4?ex=666d3d6c&is=666bebec&hm=0bb26871dcaebb3af8d50050d132b72dc7f2f45e5a221b52fe81dee0e40985d1).
