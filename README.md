@@ -3,11 +3,6 @@
 ## Overview
 **Bunnys-ImpoundZones** is a script conceptualized by **bunny** and developed by **unknown**. This script allows users to define impound zones using PolyZone boxes. Any vehicle inside these zones can be impounded over time with a configurable fine amount.
 
-## Features
-- **Define Zones**: Use PolyZone to create impound zones.
-- **Timed Impound**: Vehicles within these zones will be impounded after a set time.
-- **Configurable Fines**: Set fine amounts for impounded vehicles through the configuration.
-
 ## Configuration Options
 - **Depot Price**: Set the fine amount for impounded vehicles.
 - **Multiple Locations**: Define multiple impound zones.
